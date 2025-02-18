@@ -10,7 +10,7 @@ else if(req.url=='/about'){
 }
 else{
     
-    res.end('<h1 style=color:red> page not found</h1>')
+    res.end('<h1 style=color:red> page not  ssss found</h1>')
 }
 
 })
